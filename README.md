@@ -44,4 +44,6 @@ Recursion & Backtracking
 
 10 DAYS OF JAVASCRIPT
 
-DAY 0:
+DAY 1:
+
+1. Arithmetic Operators [Easy]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/10-days-of-javascript/ArithmeticOperators.js)
