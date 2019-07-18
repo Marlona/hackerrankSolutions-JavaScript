@@ -50,4 +50,4 @@ DAY 1:
 
 DAY 2:
 
-2. Functions [Easy]                                                              [Solution](https://github.com/Marlona/hackerrankSolutions-JavaScript/tree/master/10DaysofJS/Day2/functions.js)
+2. Functions [Easy]                                                              [Solution](https://github.com/Marlona/hackerrankSolutions-JavaScript/blob/master/10DaysofJS/Day2/Functions.js)
