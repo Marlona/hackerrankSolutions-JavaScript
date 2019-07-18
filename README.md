@@ -46,8 +46,8 @@ Recursion & Backtracking
 
 DAY 1:
 
-1. Arithmetic Operators [Easy]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/10-days-of-js/day-1/ArithmeticOperators.js)
+1. Arithmetic Operators [Easy]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/10daysofjs/day1/ArithmeticOperators.js)
 
 DAY 2:
 
-2. Functions [Easy]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/10-days-of-js/day-2/functions.js)
+2. Functions [Easy]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/10daysofjs/day2/functions.js)
