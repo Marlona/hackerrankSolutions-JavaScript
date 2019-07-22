@@ -5,6 +5,9 @@ Warmup
 
 1. Sock Merchant [Easy]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/Warmup/sockmerchant.js)
 
+2. Jumping on the Clouds [Easy]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/Warmup/clouds.js)
+
+
 
 Arrays
 
