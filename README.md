@@ -7,6 +7,8 @@ Warmup
 
 2. Jumping on the Clouds [Easy]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/Warmup/clouds.js)
 
+3. Repeated String [Easy]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/Warmup/repeatedString.js)
+
 
 
 Arrays
