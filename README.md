@@ -45,14 +45,3 @@ Linked List
 
 
 Recursion & Backtracking
--------------------------------------------------------------------------------------------------
-
-10 DAYS OF JAVASCRIPT
-
-DAY 1:
-
-1. Arithmetic Operators [Easy]                                                              [Solution](https://github.com/Marlona/hackerrankSolutions-JavaScript/tree/master/10DaysofJS/Day1/ArithmeticOperators.js)
-
-DAY 2:
-
-2. Functions [Easy]                                                              [Solution](https://github.com/Marlona/hackerrankSolutions-JavaScript/blob/master/10DaysofJS/Day2/Functions.js)
