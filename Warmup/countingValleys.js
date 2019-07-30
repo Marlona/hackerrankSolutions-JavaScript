@@ -39,11 +39,8 @@ function countingValleys(n, s) {
         if (s[i] === 'D') {
             altitude--;
         }
-        
     } 
     return num_valleys;
-
-
 }
 
 function main() {
