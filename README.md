@@ -9,6 +9,8 @@ Warmup
 
 3. Repeated String [Easy]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/Warmup/repeatedString.js)
 
+4. Counting Valleys [Easy]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/Warmup/countingvalleys.js)
+
 
 
 Arrays
