@@ -15,7 +15,7 @@ Warmup
 
 Arrays
 
-1. 2D Array [Easy]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/array/2dArray.js)
+1. 2D Array [Easy]                                                              [In-Progress](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/array/2dArray.js)
 
 
 Dictionaries and Hashmaps
