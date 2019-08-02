@@ -26,8 +26,9 @@ function readLine() {
 
 // Complete the rotLeft function below.
 function rotLeft(a, d) {
-
-
+    while(d--) 
+    a.push(a.shift())
+    return a;
 }
 
 function main() {

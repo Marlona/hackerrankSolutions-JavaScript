@@ -17,7 +17,7 @@ Arrays
 
 1. 2D Array [Easy]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/array/2dArray.js)
 
-2. Left Rotation [Easy]                                                              [In-Progress](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/array/leftArray.js)
+2. Left Rotation [Easy]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/array/leftArray.js)
 
 
 
