@@ -21,6 +21,9 @@ Arrays
 
 3. New Year Chaos [Medium]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/array/newYearChaos.js)
 
+4. Minimum Swaps 2 [Medium]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/array/minSwap2.js)
+
+
 
 
 Dictionaries and Hashmaps
