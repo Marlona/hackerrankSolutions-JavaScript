@@ -19,6 +19,8 @@ Arrays
 
 2. Left Rotation [Easy]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/array/leftArray.js)
 
+3. New Year Chaos [Medium]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/array/newYearChaos.js)
+
 
 
 Dictionaries and Hashmaps
