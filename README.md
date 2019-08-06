@@ -23,6 +23,8 @@ Arrays
 
 4. Minimum Swaps 2 [Medium]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/array/minSwap2.js)
 
+5. Array Manipulation [Medium]                                                              [In-progress](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/array/arrayManipulation.js)
+
 
 
 
