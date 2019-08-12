@@ -1,3 +1,5 @@
+
+
 const fs = require('fs');
 
 process.stdin.resume();
@@ -24,8 +26,29 @@ function readLine() {
 
 // Complete the arrayManipulation function below.
 function arrayManipulation(n, queries) {
+    var outputArray = [];
+    var arrayResults = outputArray[n + 2];
+    for (let i = 0; i < queries.length; i++) {
+        var a = queries[i][0];
+        var b = queries[i][1];
+        var k = queries[i][2];
+        arrayResults[a] += k;
+        arrayResults[b + 1] -= k;
+    }
+    var max = getMax(arrayResults);
+    return max;
 
 
+}
+
+function getMax(Arr) {
+    var max = Arr.MIN_VALUE;
+    var sum = 0;
+    for (let i = 0; i < Arr.length; i++) {
+        sum += Arr[i];
+        max = Math.max(max, sum);
+    }
+    return max;
 }
 
 function main() {
