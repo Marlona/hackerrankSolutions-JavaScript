@@ -25,31 +25,33 @@ function readLine() {
 }
 
 // Complete the arrayManipulation function below.
-function arrayManipulation(n, queries) {
-    var outputArray = [];
-    var arrayResults = outputArray[n + 2];
-    for (let i = 0; i < queries.length; i++) {
-        var a = queries[i][0];
-        var b = queries[i][1];
-        var k = queries[i][2];
-        arrayResults[a] += k;
-        arrayResults[b + 1] -= k;
-    }
-    var max = getMax(arrayResults);
-    return max;
+function getMax(array) {
+    let max = -Infinity;
+    let sum = 0;
 
-
-}
-
-function getMax(Arr) {
-    var max = Arr.MIN_VALUE;
-    var sum = 0;
-    for (let i = 0; i < Arr.length; i++) {
-        sum += Arr[i];
+    for (let i = 0; i < array.length; i++) {
+        sum += array[i];
         max = Math.max(max, sum);
     }
     return max;
 }
+
+function arrayManipulation(n, queries) {
+    let outputArray = new Array(n + 2);
+    outputArray.fill(0);
+    for (let i = 0; i < queries.length; i++) {
+        let query = queries[i];
+        let a = query[0];
+        let b = query[1];
+        let k = query[2];
+        outputArray[a] += k;
+        outputArray[b + 1] -= k;
+    }
+    let max = getMax(outputArray);
+    return max;
+}
+
+
 
 function main() {
     const ws = fs.createWriteStream(process.env.OUTPUT_PATH);
