@@ -23,13 +23,12 @@ Arrays
 
 4. Minimum Swaps 2 [Medium]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/array/minSwap2.js)
 
-5. Array Manipulation [Hard]                                                              [In-progress](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/array/arrayManipulation.js)
-
-
+5. Array Manipulation [Hard]                                                              [Solution](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/array/arrayManipulation.js)
 
 
 Dictionaries and Hashmaps
 
+1. Ransom Note [Easy]                                                              [In-progress](https://github.com/marlona/hackerrankSolutions-JavaScript/blob/master/dictionaries-and-hashmaps/ransomNote.js)
 
 Sorting
 
