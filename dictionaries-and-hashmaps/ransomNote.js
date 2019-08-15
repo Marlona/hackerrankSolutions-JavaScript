@@ -25,7 +25,7 @@ function readLine() {
 // Complete the checkMagazine function below.
 const ransomNote = new Map();
 function checkMagazine(magazine, note) {
-    // for(const note of magazine.values())
+    // Taking time to understand hashmaps better
 }
 console.log(checkMagazine(["chris is going to school on monday"], ["chris is going on monday"]))
 
